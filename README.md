@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**josecarhr03/josecarhr03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📊 Estadísticas de GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--### 🏆 Trofeos
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=josecarhr03&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>-->
+
+### 📈 Estadísticas Generales
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=josecarhr03&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
+
+### 🔥 Racha de Contribuciones
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=josecarhr03&theme=dark&hide_border=false" />
+</p>
+
+### 💻 Lenguajes Más Usados
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecarhr03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+### 🧩 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/l0OdvwRTcv?theme=dark&font=Gaegu" alt="LeetCode Stats" />
+</p>
